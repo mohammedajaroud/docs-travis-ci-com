@@ -129,7 +129,6 @@ Travis CI isn't just for running tests, there are many others things you can do 
 ## Further Reading
 
 Read more about
-
 * [customizing your build](/user/customizing-the-build)
 * [security best practices](/user/best-practices-security/)
 * [build stages](/user/build-stages/)
